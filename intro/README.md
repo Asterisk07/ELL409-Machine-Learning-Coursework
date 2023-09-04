@@ -41,3 +41,16 @@ To run the code and projects in this directory, you may need to install specific
 
 ```bash
 pip install -r requirements.txt
+```
+
+## Choice of Dataset: MNIST vs CIFAR-10
+   - In my machine learning journey, I decided to start with the MNIST dataset.
+   - MNIST is a well-known dataset of hand-written digits, making it an ideal choice for beginners in machine learning and computer vision.
+   - Given that this directory is named "intro," I opted for MNIST as it aligns with the introductory phase of my learning journey.
+   - [Link to MNIST Dataset](mention the source or location of the dataset)
+
+   - In my machine learning journey, I had the choice of starting with two popular datasets: MNIST and CIFAR-10.
+   - MNIST is a relatively small dataset, with only 70,000 images. This makes it faster and easier to train models on, and it is often used as a benchmark for comparing the performance of different models.The images in MNIST are all grayscale and have a fixed size of 28x28 pixels, which makes it easier to process and analyze the data.The images in MNIST are also well-centered and have little variability in terms of scale and orientation, which can make it easier to build models that generalize well.
+   - CIFAR-10 is a more diverse and challenging dataset than MNIST, with 10 classes of natural images (such as airplanes, cars, and animals) and a total of 60,000 images. This makes it more representative of real-world image recognition tasks.The images in CIFAR-10 are also larger (32x32 pixels) and are in color, which can provide more information for models to learn from.
+   - I chose to work with MNIST because I am a beginner and would want faster training and testing times at the start.
+   - [Link to Dataset](mention the source or location of the dataset)
