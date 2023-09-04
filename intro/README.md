@@ -17,7 +17,7 @@ During my learning journey, I used the following resources:
 2. **"Important Tensor methods from official docs"**
    - [Link to Resource](https://pytorch.org/tutorials/beginner/introyt/tensors_deeper_tutorial.html)
    - Covers some important tensor methods (including maths)
-   - [My code (for tensor maths)](/code/a3_tensor_maths.ipynb)
+   - [My code (for tensor maths)](./code/a3_tensor_maths.ipynb)
  
 
 
