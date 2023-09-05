@@ -10,6 +10,12 @@ During my learning journey, I used the following resources:
    - [Link to Resource](https://www.kdnuggets.com/2020/06/fundamentals-pytorch.html)
    - "Tensors are generalizations of 2-dimensional matrices to N-dimensional space."
 
+1. **Pytorch and Keras**
+   - Keras is more suited for small tasks due to a high level of abstraction.
+   - For example , here are sample codes for linear classification in both  [Keras](./code/keras/sample-linear-class.ipynb) and [Pytorch](../assignment-01/code/q1linear-classification/a0.ipynb). Clearly the keras code is much more high level and simpler
+   - However, for finer control over the parameters and for easier debugging, Pytorch is more suited.
+   - Pytorch is used in most academic papers today and provides much more finer control than keras.
+
 1. **"Introduction to PyTorch : Microsoft Learn"**
    - [Link to Resource](https://learn.microsoft.com/en-us/training/modules/intro-machine-learning-pytorch/)
    - Explore key PyTorch concepts for building machine learning models, including Tensor usage, dataset management, image recognition with neural networks, model optimization, and inference performance enhancement.
@@ -32,6 +38,9 @@ During my learning journey, I used the following resources:
 
 3. **Jupyter keyboard shortcuts**
    - [Link to Resource](/code/a0_keyboard_shortcuts.ipynb)
+
+3. **Linear classificiation sample implementation** 
+   - [Link to Resource](https://www.geeksforgeeks.org/classification-using-pytorch-linear-function/)
   
 These resources played a significant role in shaping my understanding of machine learning. I encourage you to explore them if you're on your own learning journey in this field.
 
