@@ -8,7 +8,7 @@ tempCodeRunnerFile.python
 *.so
 
 # apple cache
-.DS_Store
+*.DS_Store
 
 
 # Distribution / packaging
