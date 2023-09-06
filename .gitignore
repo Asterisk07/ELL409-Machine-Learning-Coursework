@@ -7,6 +7,10 @@ tempCodeRunnerFile.python
 # C extensions
 *.so
 
+# apple cache
+.DS_Store
+
+
 # Distribution / packaging
 .Python
 build/
