@@ -99,7 +99,7 @@ def create_plot(X,y):
 
 
 
-df = pd.read_csv('Q3_complex_linear_regression_dataset.csv')
+df = pd.read_csv('assignment-01/code/q3_yajat/q3.py')
 #print(df.head())
 
 
@@ -150,10 +150,10 @@ y_test=y[train_size:]
 
 
 
-# create_plot(X_train,y_train)
-model = load_or_initialize_model(X_train, y_train)
-model=modeltrain(X_train,y_train)
-modeltest(X_test,y_test,model)
+create_plot(X_train,y_train)
+# model = load_or_initialize_model(X_train, y_train)
+# model=modeltrain(X_train,y_train)
+# modeltest(X_test,y_test,model)
 
 
 
