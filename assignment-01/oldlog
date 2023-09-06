@@ -1,0 +1,15 @@
+2023-09-04 13:08:37,102 - INFO - Accuracy: 69.86%
+2023-09-04 13:08:37,102 - INFO - Training Time: 110.32 seconds
+2023-09-04 13:08:37,102 - INFO - Number of epochs: 10.00 seconds
+2023-09-05 21:21:18,966 - INFO - model : batchnorm, linear, softmax
+2023-09-05 21:21:18,966 - INFO - Accuracy: 82.69%
+2023-09-05 21:21:18,966 - INFO - Training Time: 95.16 seconds
+2023-09-05 21:21:18,966 - INFO - Number of epochs: 10.00 
+2023-09-05 21:26:02,871 - INFO - model :  linear, batchnorm, softmax
+2023-09-05 21:26:02,871 - INFO - Accuracy: 83.10%
+2023-09-05 21:26:02,871 - INFO - Training Time: 119.51 seconds
+2023-09-05 21:26:02,871 - INFO - Number of epochs: 10.00 
+2023-09-05 21:30:01,159 - INFO - model :  linear, softmax, batchnorm
+2023-09-05 21:30:01,159 - INFO - Accuracy: 82.65%
+2023-09-05 21:30:01,159 - INFO - Training Time: 132.96 seconds
+2023-09-05 21:30:01,159 - INFO - Number of epochs: 10.00 

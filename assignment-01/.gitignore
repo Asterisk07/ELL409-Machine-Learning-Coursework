@@ -1,0 +1,7 @@
+# unrelated files
+c1.py
+d1.py
+
+# log files
+log/
+oldlog/
