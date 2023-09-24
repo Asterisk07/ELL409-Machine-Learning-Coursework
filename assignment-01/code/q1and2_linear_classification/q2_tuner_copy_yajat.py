@@ -10,8 +10,7 @@ current_directory = os.getcwd()
 print("Current Directory:", current_directory)
 # Define the filename you want to join to the script directory
 filename = "q1.ipynb"  # Replace with your desired filename
-# filename = "a3-manual.ipynb"  # Replace with your desired filename
-# filename = "a1-LR.ipynb"  # Replace with your desired filename
+
 
 # Join the script directory and the filename
 file_path = os.path.join(script_directory, filename)
