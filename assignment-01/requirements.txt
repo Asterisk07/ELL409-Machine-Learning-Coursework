@@ -2,3 +2,4 @@ torch==2.0.1+cu117
 
 # tool for visualising diff:
 nbdime==3.2.1
+papermill
